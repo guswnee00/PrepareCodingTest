@@ -1,10 +1,10 @@
 # [level 1] 짝수와 홀수 - 12937 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12937) 
 
 ### 성능 요약
 
-메모리: 76 MB, 시간: 0.04 ms
+메모리: 95.3 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 16일 10:28:55
+2025년 09월 17일 10:56:03
 
 ### 문제 설명
 
